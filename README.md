@@ -1,5 +1,5 @@
 # ML walkthrough
- How to start your ml journey
+ i have an ML project 1 due the next few weeks and i decided since im learning the basics that i would share my learning as a github repo, you will find the word document and all the material with the code 
 
 ## Data-Driven Machine Learning Tutorial
 
@@ -22,7 +22,6 @@ The project is organized as follows:
 ```
 data-driven-ml-tutorial/
 ├── data/                 # Raw and processed data
-├── src/                  # Source code for data processing and ML models
 ├── results/              # Model evaluation results and visualizations
 ├── README.md             # Project overview and documentation
 └── requirements.txt      # Python dependencies
@@ -45,10 +44,6 @@ data-driven-ml-tutorial/
 
 3. **Open the tutorial notebooks** in the `tutorials/` folder to follow along with the step-by-step guides.
 
-4. **Run the main script** to train models:
-    ```sh
-    python src/main.py
-    ```
 
 ### Results
 
